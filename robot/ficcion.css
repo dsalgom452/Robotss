@@ -1,0 +1,116 @@
+header{
+    margin: 0 auto;
+    width:60vw;
+    height: 20vh;
+    background-color: black;
+    
+    }
+    a {
+    color:#ff1616;
+    text-decoration:none;
+    }
+
+   .nuevo{
+    width: 70px;
+    height: 70px;
+
+   }
+
+    footer{
+    margin: 0 auto;
+    width:60vw;
+    height: 15vh;
+    background-color: black;
+    position: relative;
+    padding-bottom: 0;
+    
+    }
+
+    nav{
+
+    color:white;
+
+    }   
+    
+    .Primero{
+      
+       text-align: center;
+       width: 60px;
+       height: 60px;
+      
+    }
+    ul {
+        text-align: center;
+        padding: 0;  
+        
+        }
+    li {
+        margin-top: 0;
+        margin-left: 0;
+        font-size: 8px;
+        font-weight: bold;
+        font-family: cursive;
+        
+        }
+        main{
+            height: 100vh;
+            display: flex;
+            justify-content: space-between;
+            flex-direction: column;
+            align-items: center;
+          /*justify-content: center es para central ;*/
+        }
+
+    h1{
+        text-align: center;
+    }
+    
+
+    div{
+     margin: 0 auto;
+     width: 45vw;
+     height: 25vh;
+    
+    text-align: center;
+
+    }
+
+    section{
+
+    width: 45vw;
+    height: 40vh;
+    margin: 0 auto;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    
+        
+    }
+
+    .pie{
+        color: white;
+        font-size: 10px;
+    }
+    .pies{
+
+    width: 30vw; 
+    height: 15vh; 
+    display: flex; 
+    justify-content:space-around; 
+    align-items: center;
+    
+    }
+
+    .uno{
+        width: 20px;
+        height: 20px;
+       
+
+    }
+
+    img{
+
+        width: 150px;
+        height: 150px;
+        
+    }

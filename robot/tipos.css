@@ -1,0 +1,113 @@
+header{
+    margin: 0 auto;
+    width:60vw;
+    height: 20vh;
+    background-color: black;
+    
+    }
+    a:hover {
+    color:#ff1616;
+       
+    }
+
+   .nuevo{
+    width: 70px;
+    height: 70px;
+
+   }
+
+    footer{
+    margin: 0 auto;
+    width:60vw;
+    height: 15vh;
+    background-color: black;
+    
+    }
+
+    nav{
+
+    color:white;
+
+    }   
+    
+    .Primero{
+      
+       text-align: center;
+       width: 60px;
+       height: 60px;
+      
+    }
+    ul {
+        text-align: center;
+        padding: 0;  
+        
+        }
+    li {
+        margin-top: 0;
+        margin-left: 0;
+        font-size: 8px;
+        font-weight: bold;
+        font-family: cursive;
+        
+        }
+    blockquote {
+    margin: 0;
+    
+    }
+
+    blockquote p {
+    padding: 15px;
+    background: #eee;
+    border-left: 2px solid red;
+    
+    }
+
+    blockquote{
+        width: 25vw;
+        height: 20vh;
+        margin: 0 auto;
+
+    }
+
+    h1{
+        text-align: center;
+    }
+    
+
+    div{
+     margin: 0 auto;
+     width: 25vw;
+     text-align: center;
+     text-align: justify;
+
+    }
+
+    section{
+    display: flex;
+    justify-content: flex-start;  
+    width: 25vw;
+    height: 25vh;
+    margin: 0 auto;
+    
+        
+    }
+
+    .pie{
+        color: white;
+        font-size: 10px;
+    }
+    .pies{
+
+    width: 30vw; 
+    height: 15vh; 
+    display: flex; 
+    justify-content:space-around; 
+    align-items: center;
+    
+    }
+
+    img{
+
+        width: 20px;
+        height: 20px;
+    }
